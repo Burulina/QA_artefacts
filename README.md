@@ -19,6 +19,7 @@ gi
 
 2. To run all auto tests manually on local machine with command line type in VS Code Terminal:
 `npm run cy_run`
+
 Or with another config file:
 ~~~
 npm run cy_staging_run

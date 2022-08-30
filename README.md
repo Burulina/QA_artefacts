@@ -21,9 +21,9 @@ gi
 `npm run cy_run`
 
 - Or with another config file:
-~~~
-npm run cy_staging_run
-~~~
+
+`npm run cy_staging_run`
+
 
 ~~~
 4. To generate HTML report after test execution type in VS Code Terminal:

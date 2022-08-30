@@ -10,13 +10,15 @@ Documentation for project (test cases) is located in the root directory in the "
 ``` console
 git clone https://github.com/Burulina/Telnyx_cucumber
 ```
-and install node modules:
+   and install node modules:
 ``` console
 npm install
 ```
 ## Steps to run
-1. To run auto tests manually on local machine with Cypress test runner type:
-- type ***"npm run cy_open"*** in termainal and press ***enter***;
+1. To run auto tests manually on local machine with Cypress test runner:
+``` console
+- npm run cy_open
+```
 - choose ***"E2E testing"*** and after ***"Chrome"***;
 - click ***"Start E2E testing in Chrome"***;
 - click on ***"*.feature"*** file in opened window and wait for auto test execution;

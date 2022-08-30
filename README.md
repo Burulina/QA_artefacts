@@ -20,13 +20,15 @@ gi
 2. To run all auto tests manually on local machine with command line type in VS Code Terminal:
 `npm run cy_run`
 
-Or with another config file:
+- Or with another config file:
 ~~~
 npm run cy_staging_run
 ~~~
 
-
+~~~
 4. To generate HTML report after test execution type in VS Code Terminal:
  ***"cy_generate_report"*** and press ***enter***. 
  Generated report is located in the root directory in the "reports" folder, open ***"index.html"*** file to see report;  
+ 
+~~~
 5. Project included .yml file, which run auto tests from telnyx project in GitHub actions after every push on main branch of repository.

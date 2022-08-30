@@ -1,8 +1,7 @@
 ## Description 
-1. This is telnyx.com test cucumber project ver. 1.0
+This is cypress + cucumber project for testing telnyx.com (ver 1.0).
 
 Documentation for project (test cases) is located in the root directory in the "Docs" folder.
-
 
 ## Setup
 1. Before using cypress with cucumber, you need download and install
